@@ -8,6 +8,7 @@
   --text-muted: #6b7280;
   --border-light: #e5e7eb;
 }
+
 * {
   box-sizing: border-box;
 }
